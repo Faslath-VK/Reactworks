@@ -1,0 +1,12 @@
+.container{
+    text-align: center;
+    padding: 50px;
+}
+.container.dark{
+    background-color: black;
+    color:white;
+}
+.container.light{
+    background-color: white;
+    color:black;
+}
